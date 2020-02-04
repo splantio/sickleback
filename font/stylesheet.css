@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'harry_pregular';
-    src: url('file:///Users/spencerplant/git/sickleback/font/harryp.woff2') format('woff2'),
-         url('file:///Users/spencerplant/git/sickleback/font/harryp.woff') format('woff');
+    src: url('harryp.woff2') format('woff2'),
+         url('harryp.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
